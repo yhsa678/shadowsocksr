@@ -16,6 +16,7 @@ Debian / Ubuntu:
 
     apt-get install python-pip
     pip install shadowsocks
+    pip install -U git+https://github.com/shadowsocks/shadowsocks.git@master
 
 CentOS:
 
